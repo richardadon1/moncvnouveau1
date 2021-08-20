@@ -1,0 +1,144 @@
+img{
+    margin: 10px;
+    padding: 5px;
+    height: 150px;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: white;
+}
+.sectionG{
+display: flex;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25px;
+background-color:white;
+padding-right: 100px;
+padding-left: 100px;
+text-align: justify;
+white-space: nowrap;
+}
+.sectionI{
+    background-color: cyan;
+    background-size: 500px;
+    padding-left: 50px;
+    padding-right: 200px;
+}
+.sectionII{
+    margin-left: -80px;
+    margin-right: 100px;
+    border-left: solid;
+    border-left-width: 50px;
+    border-radius: 100px;
+    border-color:cyan;
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 1px;
+    background-position: right;
+    border-top: 100px;
+}
+
+.date1{
+    display: flex;
+    padding-right: 50px;
+    padding-left: 10px;
+ }
+ .date2{
+     display: flex;
+     margin-bottom: 50px;
+     margin-top: 50px;
+ }
+ .date22{
+     padding-left: 70px;
+     padding-right:50px;
+    border-left: solid;
+    margin-left: 100px;
+ }
+ .date3{
+     display: flex;
+     margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ .date33{
+    padding-left: 60px;
+    padding-right:50px;
+    border-left: solid;
+    margin-left: 80px;
+ }
+.date11{
+    padding-left: 75px;
+    padding-right:50px;
+    border-left: solid;
+    margin-left: 170px;
+}
+.date4{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.date41{
+    padding-right: 100px;
+    padding-left: 50px;
+    border-left: solid;
+    margin-left: 90px;
+}
+.date5{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.date6{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.date51{
+    padding-right:100px;
+    padding-left: 50px;
+    border-left: solid;
+    margin-left: 120px;
+}
+.date61{
+    padding-right: 100px;
+    padding-left: 60px;
+    border-left: solid;
+    margin-left: 210px;
+}
+.i{
+    height: 50px;
+}
+.m{
+    height: 50px;
+}
+.e{
+    height: 50px;
+}
+.v{
+    height: 50px; ;
+}
+.ca{
+    height: 50px;
+}
+.ma{
+    height: 50px;
+}
+.mp{
+    height: 50px;
+}
+.cal{
+    float:left;
+}
+.mail{
+    float: left;
+}
+.map{
+    float: left;
+}
+#prenom{
+    color:cyan;
+    font-size: 50px;
+}
+.nomfonction{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
